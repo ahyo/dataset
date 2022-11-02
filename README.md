@@ -3,13 +3,10 @@
 Created for Thesis and Research at Bina Nusantara University
 
 1. Respiratory sound saved in ***.wav** format
-    format: **patientnumber_position_takendate.wav**
+    <details>format<summary> **patientnumber_position_takendate.wav**</summary>
+    <p>
     - patientnumber, related to patient.txt
-    - position, chest area recorded 
-    | Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+    - position, chest area recorded :
 
     | Position | Notes |
     | --- | --- |
@@ -21,6 +18,8 @@ Created for Thesis and Research at Bina Nusantara University
     | LR | Laterat Right |
     | TR | Trachea |
     - takendate, yyyymmdd
+    </p>
+    </details>
 2. diagnosa.txt, Diagnose patient record
  format: patientnumber<tab>takendate<tab>result
  Result are *Healthy, COPD, URTI, Bronchiectasis, Pneumonia and Bronchiolitis*
