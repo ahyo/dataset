@@ -4,6 +4,7 @@ Created for Thesis and Research at Bina Nusantara University
 
 1. Respiratory sound saved in ***.wav** format
     <p>format: patientnumber_position_takendate.wav</p>
+    
     - patientnumber, related to patient.txt
     - position, chest area recorded :
 
