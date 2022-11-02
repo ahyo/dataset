@@ -6,15 +6,15 @@ Created for Thesis and Research at Bina Nusantara University
     format: **patientnumber_position_takendate.wav**
     - patientnumber, related to patient.txt
     - position, chest area recorded 
-    |position|notes            |
-    |--------|-----------------|
-    | AL     | Anterior Left   |
-    | AR     | Anterior Right  |
-    | PL     | Posterior Left  | 
-    | PR     | Posterior Right | 
-    | LL     | Lateral Left    |
-    | LR     | Laterat Right   |
-    | TR     | Trachea         |
+    | Position | Notes           |
+    | -------- | --------------- |
+    | AL       | Anterior Left   |
+    | AR       | Anterior Right  |
+    | PL       | Posterior Left  | 
+    | PR       | Posterior Right | 
+    | LL       | Lateral Left    |
+    | LR       | Laterat Right   |
+    | TR       | Trachea         |
     - takendate, yyyymmdd
 2. diagnosa.txt, Diagnose patient record
  format: patientnumber<tab>takendate<tab>result
